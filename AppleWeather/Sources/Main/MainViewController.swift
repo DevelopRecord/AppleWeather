@@ -17,7 +17,7 @@ class MainViewController: UIViewController {
     // MARK: Properties
 
     private var cityList = [ListModel(title: "나의 위치", subTitle: "", description: "", temp: 0, max: 0, min: 0)]
-// commit testtt
+// commit testtt2
     /// 서버에서 불러올 정보
     var lat: Double?
     var lon: Double?
