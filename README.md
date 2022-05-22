@@ -21,7 +21,7 @@ OpenWeatherAPI를 이용하여 애플의 기본 날씨 앱을 만듭니다.
 - UIKit
    
 #### 미리보기
-![AppleWeather-preview](https://user-images.githubusercontent.com/76255765/165723339-61c8f520-e245-495f-9653-94c928af0d33.gif)
+<img src="https://user-images.githubusercontent.com/76255765/165723339-61c8f520-e245-495f-9653-94c928af0d33.gif" width="250" height="510"/>
 
 #### 기능
 
